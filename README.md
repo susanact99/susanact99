@@ -1,6 +1,9 @@
 # 💫 About Me:
-¡Hola! Soy Susana, una joven programadora de 24 años con una profunda pasión por la tecnología y la programación. Actualmente resido en España.<br><br>Mi objetivo es crecer en este apasionante campo y aportar mis habilidades a proyectos innovadores que puedan hacer una diferencia. Me motiva la idea de trabajar con otras personas que comparten mi pasión y de aprender de la comunidad de desarrolladores.<br><br>Si estás buscando a alguien con energía, entusiasmo y ganas de aprender, ¡aquí estoy! Me encantaría formar parte de proyectos interesantes y contribuir con mi conocimiento y creatividad. ¡Hagamos grandes cosas juntos!
+Hello! I'm Susana, a 25-year-old programmer with a deep passion for technology and coding. I currently live in Spain.
 
+My goal is to grow in this exciting field and contribute my skills to innovative projects that can make a difference. I'm motivated by the idea of working with others who share my passion and learning from the developer community.
+
+If you're looking for someone with energy, enthusiasm, and a desire to learn, here I am! I'd love to be part of interesting projects and contribute with my knowledge and creativity. Let's make great things together!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/susanact99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/susana.calzadilla.18) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/susana_ct99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/susana-calzadilla-70301a265) 
