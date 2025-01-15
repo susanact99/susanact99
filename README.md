@@ -21,7 +21,8 @@ If you're looking for someone with energy, enthusiasm, and a desire to learn, he
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=susanact99)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=susanact99)
+
 
 
 ### 🔝 Top Contributed Repo
