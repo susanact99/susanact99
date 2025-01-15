@@ -21,9 +21,7 @@ If you're looking for someone with energy, enthusiasm, and a desire to learn, he
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=susanact99)
-
-
+![Visitas al perfil](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusanact99_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=susanact99&limit=5&theme=dark&combine_all_yearly_contributions=true)
