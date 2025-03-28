@@ -1,6 +1,6 @@
 <!-- Encabezado con una animación -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=600&lines=Hello!+I'm+Susana+%F0%9F%91%8B;A+Passionate+Front-End+Developer+%F0%9F%92%BB;Specializing+in+React+%26+JavaScript+%F0%9F%92%BB;Let's+Build+Something+Awesome+Together+%F0%9F%92%A5" />
+  <img src="https://raw.githubusercontent.com/susanact99/susanact99/main/assets/header.gif" width="100%" />
 </p>
 
 ---
