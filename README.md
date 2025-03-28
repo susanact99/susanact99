@@ -96,15 +96,6 @@
 </p>
 
 ---
-
-✨ **Thanks for visiting my profile! Let's connect and create something awesome!** 🚀  
-
-📊 **Profile Visits:**  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=susanact99&style=for-the-badge&color=red" />
-</p>
-
----
 🚀 **Let's connect & collaborate on amazing projects!**  
 
 
