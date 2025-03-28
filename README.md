@@ -1,6 +1,6 @@
-<!-- Encabezado con una animación -->
+<!-- Encabezado con animación moderna y texto llamativo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/susanact99/susanact99/main/assets/header.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=600&lines=Hi+there!+I'm+Susana+👋;I'm+a+Passionate+Front-End+Developer+%F0%9F%92%BB;I+Love+Building+Innovative+Web+Apps+%F0%9F%92%A1;Let's+Collaborate+and+Create+Something+Awesome+🚀" />
 </p>
 
 ---
