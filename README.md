@@ -92,7 +92,7 @@
 
 ## 🔥 Profile Views  
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusanact99&title=Profile%20Views&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=susanact99&label=Profile%20Views&color=red&style=for-the-badge" />
 </p>
 
 ---
@@ -100,7 +100,9 @@
 ✨ **Thanks for visiting my profile! Let's connect and create something awesome!** 🚀  
 
 📊 **Profile Visits:**  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsusanact99_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitas&edge_flat=false&show=unique)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=susanact99&style=for-the-badge&color=red" />
+</p>
 
 ---
 🚀 **Let's connect & collaborate on amazing projects!**  
